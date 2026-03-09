@@ -55,7 +55,7 @@ Check whether an array is a palindrome
 
 C Programming
 
-🎯 Learning Outcome
+🎯 Learning Outcome:
 
 After completing these problems, I gained a clear understanding of:
 
