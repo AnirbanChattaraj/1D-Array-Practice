@@ -71,8 +71,3 @@ This practice serves as a foundation before moving on to:
 
 2D Arrays
 
-Sorting Algorithms
-
-Searching Algorithms
-
-Data Structures and Algorithms (DSA)
