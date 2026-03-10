@@ -3,7 +3,7 @@
 This repository contains my practice programs while learning 1D Arrays in C Programming.
 The goal of this practice set is to build a strong foundation in array manipulation, looping, and problem-solving before moving to more advanced topics like 2D Arrays, Sorting, and Data Structures.
 
-📚 Topics Covered
+📚 Topics Covered:-
 
 Array declaration and initialization
 
