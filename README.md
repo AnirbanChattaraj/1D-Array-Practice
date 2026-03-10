@@ -17,7 +17,7 @@ Searching elements in arrays
 
 Logical problem solving using arrays
 
-🧠 Practice Problems
+🧠 Practice Problems:-
 
 The following problems were solved as part of my learning process:
 
