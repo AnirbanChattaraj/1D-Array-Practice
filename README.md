@@ -21,35 +21,35 @@ Logical problem solving using arrays
 
 The following problems were solved as part of my learning process:
 
-1.Print all elements of an array
+1. Print all elements of an array
 
-2.Take user input and store elements in an array
+2. Take user input and store elements in an array
 
-3.Find the sum of all array elements
+3. Find the sum of all array elements
 
-4.Calculate the average of array elements
+4. Calculate the average of array elements
 
-5.Find the largest element in an array
+5. Find the largest element in an array
 
-Find the smallest element in an array
+6. Find the smallest element in an array
 
-Count even numbers in an array
+7. Count even numbers in an array
 
-Count odd numbers in an array
+8. Count odd numbers in an array
 
-Find sum of even and odd elements separately
+9. Find sum of even and odd elements separately
 
-Search for an element in the array
+10. Search for an element in the array
 
-Reverse the array
+11. Reverse the array
 
-Print elements at even indices
+12. Print elements at even indices
 
-Print elements at odd indices
+13. Print elements at odd indices
 
-Find the second largest element
+14. Find the second largest element
 
-Check whether an array is a palindrome
+15. Check whether an array is a palindrome
 
 🛠️ Language Used
 
