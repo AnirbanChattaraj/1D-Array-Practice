@@ -21,15 +21,15 @@ Logical problem solving using arrays
 
 The following problems were solved as part of my learning process:
 
-Print all elements of an array
+1.Print all elements of an array
 
-Take user input and store elements in an array
+2.Take user input and store elements in an array
 
-Find the sum of all array elements
+3.Find the sum of all array elements
 
-Calculate the average of array elements
+4.Calculate the average of array elements
 
-Find the largest element in an array
+5.Find the largest element in an array
 
 Find the smallest element in an array
 
